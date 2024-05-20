@@ -17,7 +17,7 @@ It's a single landing page, present Eco-Cosmetic website.On page you can see our
 
   Also styles are implemented using **Sass(SCSS)** and advanced features like mixins, functions, variables and etc.
 
-  User interaction is implemented with hover effects, transition and Javascript.Also page has different animanitions.
+  User interaction is implemented with hover effects, transition and **Javascript**.Also page has different animanitions.
 
 
 # For what?
