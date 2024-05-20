@@ -1,7 +1,7 @@
 # Eco-Cosmetics landing page
 It's a single landing page, present Eco-Cosmetic website.On page you can see our products which we have and you can buy it in the shop.If you have a question you can call to us or write on e-mail.Yon can read a small history about our company.Please check the demo link and you can see our website.
 
-# [DEMO LINK](https://FallenMAD.github.io/Create_Bakery/)
+# [DEMO LINK](https://FallenMAD.github.io/Eco__Cosmetics/)
 # [Figma Design](https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631&t=vQj8N6osyIdZYLfq-0)
 
 # Technologies used:
