@@ -50,6 +50,8 @@
     }
 
     &--contacts {
+      cursor: pointer;
+
       @include onTablet {
         width: 280px;
         grid-column: 1 / 4;
