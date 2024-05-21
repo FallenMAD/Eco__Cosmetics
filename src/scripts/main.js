@@ -5,7 +5,8 @@ const shopCard = document.querySelectorAll('.shop__cards');
 const allInput = document.querySelectorAll('.contacts__field', '.form-field');
 const form = document.getElementById('form');
 
-console.log(allInput)
+console.log(allInput);
+console.log(form);
 
 allInput.forEach(input => {
   input.addEventListener('input', () => {
