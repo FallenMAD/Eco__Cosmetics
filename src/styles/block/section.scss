@@ -35,7 +35,6 @@
 
   &__span {
     position: absolute;
-    top: 17%;
     right: 90%;
     width: 192px;
     transform: rotate(-90deg);
@@ -56,6 +55,14 @@
 
     &--shop {
       top: 2%;
+    }
+
+    &--mountain {
+      top: 18%;
+    }
+
+    &--creators {
+      top: 11%;
     }
   }
 }
